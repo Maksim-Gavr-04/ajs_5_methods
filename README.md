@@ -1,5 +1,7 @@
 # Методы
 
+[![Build status](https://ci.appveyor.com/api/projects/status/35h5scdpcjsu9q0v?svg=true)](https://ci.appveyor.com/project/Maksim-Gavr-04/ajs-5-methods)
+
 ## Легенда
 
 Поскольку вы создавали классы для того, чтобы хранить в одном месте свойства объекта и его поведение, то пришла пора реализовать 
