@@ -4,7 +4,7 @@ import ESLint from "@eslint/js";
 export default [
   ESLint.configs.recommended,
   {
-    ignores: ["!dist/", "*.json"],
+    ignores: ["dist/", "*.json"],
   },
   {
     languageOptions: {
